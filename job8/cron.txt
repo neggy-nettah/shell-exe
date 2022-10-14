@@ -1,0 +1,1 @@
+* * * * * /Users/neggynettah/laplateforme/projet/shell.exe/job8/get_logs.sh
